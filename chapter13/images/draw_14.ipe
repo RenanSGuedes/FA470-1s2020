@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20200403212714" modified="D:20200403212714"/>
+<info created="D:20200403212714" modified="D:20200408200544"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="296740" encoding="base64">
 eNrsnQdAFNfahtFEkxtNbkzun8RUOwKCgCKIimIXxB67ggWwEIEoFrBii7Eg1S6W2ABLRKNG
 xR5FUSwoShNr7ApW+n92DwwzszOzneb75nUzTD1zpp159tvvGBhAEARBEKREVatW/eabbxo2
@@ -6737,7 +6737,7 @@ h
 294.208 333.084
 294.208 333.067 c
 </path>
-<path stroke="darkmagenta">
+<path stroke="darkgray">
 288.488 328.092 m
 290.665 330.395
 290.665 330.395 c
