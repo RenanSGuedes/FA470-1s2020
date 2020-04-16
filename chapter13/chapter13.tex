@@ -9,24 +9,14 @@
 \usepackage{graphicx}
 %\usepackage{xwatermark}
 \usepackage{xcolor}
+\usepackage{import}
 %\newwatermark[allpages,scale=6,color=red!15,angle=60,xpos=-60pt,ypos=30pt]{FA470}
 
-\begin{document}
-	\begin{center}
-		\begin{huge}
-			FA470 - Dinâmica de Corpos Rígidos\\\vspace{1cm}
-		\end{huge}
-		\begin{large}
-			Professor William Martins Vicente\\\vspace{.5cm}
-			\href{https://github.com/renanGuedes10/}{PAD Renan da Silva Guedes}\\\vspace{1cm}
-		\end{large}
-		\begin{Large}
-			R. C. Hibbeler, Dinâmica. Mecânica Para Engenharia, Pearson; Edição: 12$^{\,\underline{\text{a}}}$, 2010
-		\end{Large}\\\vspace{1cm}
-		\begin{large}
-			\textbf{Capítulo 13}
-		\end{large}
-	\end{center}    
+\newcommand{\chapternumber}[1]{\textbf{Capítulo #1}}
+\newcommand{\chaptertitle}[1]{\uppercase{\textbf{#1}}}
+
+\begin{document}  
+	\import{sections/}{header}
 	
 	\begin{enumerate}
 		\item Uma mola de rigidez $k=\SI{500}{\newton/\meter}$ está montada contra o bloco de \SI{10}{\kilogram}. Se o bloco está sujeito à força $F=\SI{500}{\newton}$, determine a sua velocidade em $s=\SI{0.5}{\meter}$. Quando $s=0$, o bloco está em repouso e a mola está descomprimida. A superfície de contato é lisa.
@@ -41,7 +31,7 @@
 		
 		$\textbf{\text{Resposta}}\Rightarrow a=\SI{2.9318}{\meter/\second^{2}}$
 		
-		\vspace{-.8cm}
+		\vspace{1.5cm}
 		\begin{flushright}
 			\includegraphics[scale=1]{images/draw_2.pdf}
 		\end{flushright}

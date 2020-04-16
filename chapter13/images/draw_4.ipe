@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20200402225512" modified="D:20200402225512"/>
+<info created="D:20200402225512" modified="D:20200415013330"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="129740" encoding="base64">
 eNrsvXmUVtW57vvHHefecc7N3afJ2e59Ej0mxmRnmxiNUWIUFSEqGEBEsTcIiigqgkijAoI0
 KootIkiPgqDSSd+3Im0B0kMBBUUBBQaMBCIE9T669vee53tXrVmrvqqCEp9nPMOBVV+tNdds
@@ -2625,13 +2625,13 @@ h
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
+<textsize name="small" value="\small"/>
+<textsize name="tiny" value="\tiny"/>
 <textsize name="Large" value="\Large"/>
 <textsize name="LARGE" value="\LARGE"/>
 <textsize name="huge" value="\huge"/>
 <textsize name="Huge" value="\Huge"/>
-<textsize name="small" value="\small"/>
 <textsize name="footnote" value="\footnotesize"/>
-<textsize name="tiny" value="\tiny"/>
 <textstyle name="center" begin="\begin{center}" end="\end{center}"/>
 <textstyle name="itemize" begin="\begin{itemize}" end="\end{itemize}"/>
 <textstyle name="item" begin="\begin{itemize}\item{}" end="\end{itemize}"/>
@@ -2696,7 +2696,7 @@ h
 501.545 443.352
 501.545 443.394 c
 </path>
-<text matrix="1 0 0 1 -28.2035 -2.32447" transformations="translations" pos="272.916 407.598" stroke="black" type="label" width="54.866" height="9.245" depth="2.79" valign="baseline" size="Large" style="math">\rho=75\,m</text>
+<text matrix="1 0 0 1 -28.2035 -2.32447" transformations="translations" pos="272.916 407.598" stroke="black" type="label" width="54.285" height="9.245" depth="2.79" valign="baseline" size="Large" style="math">\rho=75\,\textrm{m}</text>
 <path stroke="black">
 310.088 320.463 m
 310.088 332.55 l

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20200403012148" modified="D:20200403012148"/>
+<info created="D:20200403012148" modified="D:20200415013513"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="697457" encoding="base64">
 eNrsnQdAFNfe9k3ud2/yJu9Nbm5J3uTm5hpjxyBixxI7CiKixoYKIooGIti7idgLItUCAnYF
 NCr2gr1gLyBSxS6oKGJhly3f2T0wzE7ZvjSfJ0/W2ZkzZ86cObvL/ua//1OjhgH6y1/+8n//
@@ -13138,13 +13138,13 @@ h
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
+<textsize name="small" value="\small"/>
+<textsize name="tiny" value="\tiny"/>
 <textsize name="Large" value="\Large"/>
 <textsize name="LARGE" value="\LARGE"/>
 <textsize name="huge" value="\huge"/>
 <textsize name="Huge" value="\Huge"/>
-<textsize name="small" value="\small"/>
 <textsize name="footnote" value="\footnotesize"/>
-<textsize name="tiny" value="\tiny"/>
 <textstyle name="center" begin="\begin{center}" end="\end{center}"/>
 <textstyle name="itemize" begin="\begin{itemize}" end="\end{itemize}"/>
 <textstyle name="item" begin="\begin{itemize}\item{}" end="\end{itemize}"/>
@@ -13786,7 +13786,7 @@ h
 <text matrix="1 0 0 1 -3.37333 -3.90041" transformations="translations" pos="231.459 479.344" stroke="black" type="label" width="7.472" height="6.808" depth="0" valign="baseline" style="math">A</text>
 <text matrix="1 0 0 1 -3.74754 -2.37344" transformations="translations" pos="366.572 401.316" stroke="black" type="label" width="8.057" height="6.808" depth="0" valign="baseline" style="math">B</text>
 <text matrix="1 0 0 1 -3.18541 -2.68574" transformations="translations" pos="311.24 403.451" stroke="black" type="label" width="7.833" height="6.808" depth="0" valign="baseline" style="math">C</text>
-<text matrix="1 0 0 1 -8.43331 -4.21666" transformations="translations" pos="289.921 467.768" stroke="black" type="label" width="23.138" height="6.42" depth="0" valign="baseline" style="math">0.6\,m</text>
+<text matrix="1 0 0 1 -8.43331 -4.21666" transformations="translations" pos="289.921 467.768" stroke="black" type="label" width="22.693" height="6.42" depth="0" valign="baseline" style="math">0.6\,\textrm{m}</text>
 <path stroke="black">
 339.039 413.431 m
 339.039 440.409 l

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20200403203123" modified="D:20200403203123"/>
+<info created="D:20200403203123" modified="D:20200415013924"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="366012" encoding="base64">
 eNrsnQdA1GYfxo/trhO3IiJDprhBEa17W7eIOEBcVVFxoVbF0aEiy4mjtW5tVRy1dW8UxQEO
 RJz1q1ucbL73LnBkX26AgM/Tp2dI3iRv3oxLfvfP/5XJIAiCIAiCIKiAytjYuEqVKtbW1vYQ
@@ -7001,13 +7001,13 @@ h
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
+<textsize name="small" value="\small"/>
+<textsize name="tiny" value="\tiny"/>
 <textsize name="Large" value="\Large"/>
 <textsize name="LARGE" value="\LARGE"/>
 <textsize name="huge" value="\huge"/>
 <textsize name="Huge" value="\Huge"/>
-<textsize name="small" value="\small"/>
 <textsize name="footnote" value="\footnotesize"/>
-<textsize name="tiny" value="\tiny"/>
 <textstyle name="center" begin="\begin{center}" end="\end{center}"/>
 <textstyle name="itemize" begin="\begin{itemize}" end="\end{itemize}"/>
 <textstyle name="item" begin="\begin{itemize}\item{}" end="\end{itemize}"/>
@@ -7306,7 +7306,7 @@ h
 <text matrix="1 0 0 1 -2.02858 -2.43429" transformations="translations" pos="369.941 349.193" stroke="black" type="label" width="4.954" height="6.918" depth="0" valign="baseline" style="math">\theta</text>
 <text matrix="1 0 0 1 -1.15385 -2.01924" transformations="translations" pos="366.506 325.646" stroke="black" type="label" width="4.771" height="4.289" depth="0" valign="baseline" style="math">r</text>
 <text matrix="1 0 0 1 -2.19086 -1.46058" transformations="translations" pos="321.011 371.925" stroke="black" type="label" width="5.071" height="4.289" depth="0" valign="baseline" style="math">z</text>
-<text matrix="1 0 0 1 -26.3541 -2.52999" transformations="translations" pos="481.287 445.879" stroke="black" type="label" width="57.502" height="9.283" depth="2.49" valign="baseline" style="math">\dot{\theta}=0.8\,rad/s</text>
+<text matrix="1 0 0 1 -26.3541 -2.52999" transformations="translations" pos="481.287 445.879" stroke="black" type="label" width="55.957" height="9.283" depth="2.49" valign="baseline" style="math">\dot{\theta}=0.8\,\textrm{rad/s}</text>
 <path stroke="black">
 444.791 440.109 m
 444.532 442.033

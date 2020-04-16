@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20200403193934" modified="D:20200403193934"/>
+<info created="D:20200403193934" modified="D:20200415013841"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="183388" encoding="base64">
 eNrsnQdAFEffxtFEk1eTvDF5vySm2hEQBBRBVBRUFJBi74KKoJEIRFHEji3GglR7iUajgBWN
 MSr2KIodK8USY+wKYqF/czew7O3t7u01ms+Tx8ve7uzu7Nzu7ezv/vzHwACCIAiCIBWqWbPm
@@ -3619,13 +3619,13 @@ h
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
+<textsize name="small" value="\small"/>
+<textsize name="tiny" value="\tiny"/>
 <textsize name="Large" value="\Large"/>
 <textsize name="LARGE" value="\LARGE"/>
 <textsize name="huge" value="\huge"/>
 <textsize name="Huge" value="\Huge"/>
-<textsize name="small" value="\small"/>
 <textsize name="footnote" value="\footnotesize"/>
-<textsize name="tiny" value="\tiny"/>
 <textstyle name="center" begin="\begin{center}" end="\end{center}"/>
 <textstyle name="itemize" begin="\begin{itemize}" end="\end{itemize}"/>
 <textstyle name="item" begin="\begin{itemize}\item{}" end="\end{itemize}"/>
@@ -3704,7 +3704,7 @@ h
 326.479 431.013 m
 29.8375 0 0 -29.8375 305.356 452.087 302.381 422.398 a
 </path>
-<text matrix="1 0 0 1 -6.99677 -5.01789" transformations="translations" pos="262.133 394.967" stroke="black" type="label" width="18.085" height="7.704" depth="0" valign="baseline" size="large" style="math">4\,m</text>
+<text matrix="1 0 0 1 -6.99677 -5.01789" transformations="translations" pos="262.133 394.967" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">4\,\textrm{m}</text>
 <text matrix="1 0 0 1 -2.61124 -2.88325" transformations="translations" pos="318.565 417.339" stroke="black" type="label" width="5.78" height="8.302" depth="0" valign="baseline" size="large" style="math">\theta</text>
 </page>
 </ipe>
