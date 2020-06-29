@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
-<ipe version="70216" creator="Ipe 7.2.17">
-<info created="D:20200624175436" modified="D:20200624183707"/>
+<ipe version="70218" creator="Ipe 7.2.20">
+<info created="D:20200624175436" modified="D:20200627002041"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="127829" encoding="base64">
 eNrsnQVclPcfxw0kjP/cFBtFUTenS3sWIaAYCCKgCIii2O1mTGdPndPZikoZGIgxOza7u1BQ
 we7ZSt//d/fjHp6+JvTz2ft1O5577sl7Du99X74/W1vbaqpUrVrV1taW3lapUqWVW2cAAAAA
@@ -2618,8 +2618,8 @@ h
 <arrowsize name="small" value="5"/>
 <arrowsize name="tiny" value="3"/>
 <color name="red" value="1 0 0"/>
-<color name="green" value="0 1 0"/>
 <color name="blue" value="0 0 1"/>
+<color name="green" value="0 1 0"/>
 <color name="yellow" value="1 1 0"/>
 <color name="orange" value="1 0.647 0"/>
 <color name="gold" value="1 0.843 0"/>
@@ -2643,8 +2643,8 @@ h
 <color name="lightgray" value="0.827"/>
 <color name="lightgreen" value="0.565 0.933 0.565"/>
 <color name="lightyellow" value="1 1 0.878"/>
-<dashstyle name="dashed" value="[4] 0"/>
 <dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dashed" value="[4] 0"/>
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
@@ -2685,7 +2685,7 @@ h
 <layer name="gamma"/>
 <view layers="beta gamma" active="gamma"/>
 <image layer="alpha" matrix="0.788096 0 0 0.809504 69.8995 61.3324" rect="0 253.656 595 588.344" bitmap="1"/>
-<path layer="beta" stroke="black" fill="lightcyan">
+<path layer="beta" stroke="lightgreen" fill="lightgreen">
 300.025 432.155 m
 31.0265 0 0 -31.0265 321.915 410.167 306.733 437.226 a
 111.131 0 0 -111.131 414.247 465.346 303.87 452.425 a
@@ -2753,7 +2753,7 @@ h
 96.1837 0 0 -96.1837 237.477 359.086 300.025 432.155 a
 h
 </path>
-<path stroke="black" fill="lightblue">
+<path stroke="lightblue" fill="lightblue">
 209.5 293.606 m
 431.245 293.606 l
 431.245 306.159 l
@@ -2796,45 +2796,45 @@ h
 209.5 307.485 l
 h
 </path>
-<path stroke="black" fill="lightblue">
+<path stroke="lightblue" fill="lightblue">
 409.283 476.2 m
 187.538 476.2 l
 187.538 463.647 l
 190.664 462.6 l
 190.664 452.328 l
--6.94804 0 -0 -6.94804 197.516 453.479 204.455 453.122 a
+-6.94804 0 0 -6.94804 197.516 453.479 204.455 453.122 a
 204.455 462.562 l
 215.969 462.574 l
 215.969 452.302 l
--6.94804 0 -0 -6.94804 222.821 453.453 229.76 453.096 a
+-6.94804 0 0 -6.94804 222.821 453.453 229.76 453.096 a
 229.76 462.536 l
 241.274 462.548 l
 241.274 452.276 l
--6.94804 0 -0 -6.94804 248.126 453.427 255.065 453.07 a
+-6.94804 0 0 -6.94804 248.126 453.427 255.065 453.07 a
 255.065 462.51 l
 266.579 462.522 l
 266.579 452.25 l
--6.94804 0 -0 -6.94804 273.431 453.401 280.37 453.044 a
+-6.94804 0 0 -6.94804 273.431 453.401 280.37 453.044 a
 280.37 462.484 l
 290.409 462.529 l
 290.38 452.275 l
--6.8121 0 -0 -6.8121 297.115 453.3 303.87 452.425 a
+-6.8121 0 0 -6.8121 297.115 453.3 303.87 452.425 a
 303.712 462.359 l
 315.691 462.468 l
 315.691 452.196 l
--6.94804 0 -0 -6.94804 322.543 453.347 329.482 452.99 a
+-6.94804 0 0 -6.94804 322.543 453.347 329.482 452.99 a
 329.482 462.43 l
 341.492 462.439 l
 341.58 451.454 l
--6.73837 0 -0 -6.73837 348.058 453.31 354.787 452.964 a
+-6.73837 0 0 -6.73837 348.058 453.31 354.787 452.964 a
 354.787 462.404 l
 366.351 462.403 l
 366.3 452.8 l
--6.35318 0 -0 -6.35318 372.636 453.264 378.981 452.937 a
+-6.35318 0 0 -6.35318 372.636 453.264 378.981 452.937 a
 378.981 462.377 l
 390.495 462.389 l
 390.495 452.117 l
--6.94804 0 -0 -6.94804 397.347 453.268 404.286 452.911 a
+-6.94804 0 0 -6.94804 397.347 453.268 404.286 452.911 a
 404.286 462.351 l
 409.283 462.321 l
 h

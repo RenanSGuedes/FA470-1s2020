@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
-<ipe version="70216" creator="Ipe 7.2.17">
-<info created="D:20200624222855" modified="D:20200624223822"/>
+<ipe version="70218" creator="Ipe 7.2.20">
+<info created="D:20200624222855" modified="D:20200627003043"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="122237" encoding="base64">
 eNrsnQVgU+cahpFSQQaX4cNtMJjiwyq0hSKlpZSWujsUWlyG25Dhw2pIkcKAMWxjYwy34sVK
 sWFjw6Ge+yenOTker8D73me56cnJseSckKdfv79RI1YaKtKgQYOeDu4AAAAAAAAAAAAAAAAA
@@ -2514,8 +2514,8 @@ h
 <arrowsize name="small" value="5"/>
 <arrowsize name="tiny" value="3"/>
 <color name="red" value="1 0 0"/>
-<color name="green" value="0 1 0"/>
 <color name="blue" value="0 0 1"/>
+<color name="green" value="0 1 0"/>
 <color name="yellow" value="1 1 0"/>
 <color name="orange" value="1 0.647 0"/>
 <color name="gold" value="1 0.843 0"/>
@@ -2539,8 +2539,8 @@ h
 <color name="lightgray" value="0.827"/>
 <color name="lightgreen" value="0.565 0.933 0.565"/>
 <color name="lightyellow" value="1 1 0.878"/>
-<dashstyle name="dashed" value="[4] 0"/>
 <dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dashed" value="[4] 0"/>
 <dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
 <dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
 <textsize name="large" value="\large"/>
@@ -2585,11 +2585,7 @@ h
 <path layer="beta" stroke="darkgray" fill="darkgray">
 96.6119 0 0 96.6119 288.409 410.45 e
 </path>
-<path layer="gamma" matrix="1.62547 0 0 1.62547 -169.209 -229.461" stroke="black" pen="0.4">
-261.382 380.36 m
-303.313 380.36 l
-</path>
-<path matrix="1.62547 0 0 1.62547 -169.209 -229.461" stroke="black" fill="lightyellow" pen="0.4">
+<path layer="gamma" matrix="1.62547 0 0 1.62547 -169.209 -229.461" stroke="lightyellow" fill="lightyellow" pen="0.4">
 264.5 380.36 m
 264.5 382.509 l
 299.577 382.509 l
@@ -2641,7 +2637,7 @@ h
 269.328 385.108 m
 270.148 385.488 l
 </path>
-<path matrix="1.62547 0 0 1.62547 -169.209 -229.461" stroke="black" fill="lightyellow" pen="0.4">
+<path matrix="1.62547 0 0 1.62547 -169.209 -229.461" stroke="lightyellow" fill="lightyellow" pen="0.4">
 289.886 382.509 m
 285.784 395.579 l
 4.35441 0 0 4.35441 281.638 394.248 277.324 394.839 a
@@ -2727,5 +2723,19 @@ h
 <text matrix="1 0 0 1 -17.3859 -6.078" transformations="translations" pos="259.495 444.498" stroke="black" type="label" width="44.529" height="11.097" depth="0" valign="baseline" size="LARGE" style="math">0.45\,\textrm{m}</text>
 <text matrix="1 0 0 1 -5.76649 -5.33129" transformations="translations" pos="253.61 480.606" stroke="black" type="label" width="13.675" height="11.764" depth="0" valign="baseline" size="LARGE" style="math">B</text>
 <text matrix="1 0 0 1 0 -5.23088" transformations="translations" pos="353.761 523.079" stroke="black" type="label" width="86.437" height="12.896" depth="4.29" valign="baseline" size="LARGE" style="math">\omega_{0}=8\,\textrm{rad/s}</text>
+<path stroke="lightgray" fill="lightgray" pen="0.4">
+255.66 388.803 m
+323.817 388.803 l
+322.037 380.405
+313.493 376.302
+304.781 377.258
+294.046 375.965
+282.805 375.291
+270.721 375.122
+263.583 380.181
+260.379 384.733
+255.66 388.803 c
+h
+</path>
 </page>
 </ipe>
