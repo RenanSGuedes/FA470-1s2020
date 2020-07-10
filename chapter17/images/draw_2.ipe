@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.12">
-<info created="D:20200709170646" modified="D:20200709172457"/>
+<info created="D:20200709170646" modified="D:20200710095124"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="81263" encoding="base64">
 eNrsnQdAFNfahhMbYEnV1D9qojHXaBJjL/QqiCJFQDqIoIKKvUVFxYJRsKKiUhVUiiXYxV6x
 ANKlClgh9hg6/9kdWGZnZ/uCYN73Ptk7O3P2tJmddd/9+M4HH0ghFZWOPX/sp6ZpqmtgAwBQ
@@ -1765,28 +1765,28 @@ h
 <layer name="delta"/>
 <view layers="beta gamma delta" active="delta"/>
 <image layer="alpha" matrix="0.814012 0 0 0.814012 -32 109.425" rect="0 253.656 595 588.344" bitmap="1"/>
-<path layer="beta" stroke="black">
+<path layer="beta" stroke="black" cap="1">
 187.682 438.774 m
 381.161 438.774 l
 </path>
-<path stroke="black">
+<path stroke="black" cap="1">
 204.286 345.882 m
 204.286 536.935 l
 </path>
-<path stroke="black">
+<path stroke="black" cap="1">
 204.286 438.774 m
 152.744 390.7 l
 </path>
 <path layer="gamma" stroke="lightgray" fill="lightgray" join="1" opacity="75%" stroke-opacity="50%">
-320.649 498.075 m
-360.316 0 0 -360.316 90.3796 775.21 275.556 466.119 a
+325.978 501.062 m
+463.232 0 0 -463.232 37.4881 863.495 275.556 466.119 a
 346.901 0 0 -346.901 98.1512 764.226 232.34 444.33 a
 88.8795 0 0 -88.8795 201.272 527.602 204.286 438.774 a
 88.8795 0 0 -88.8795 201.272 349.946 232.34 433.218 a
 346.901 0 0 -346.901 98.1509 113.322 275.556 411.429 a
-331.079 0 0 -331.079 105.405 127.418 320.841 378.816 a
+450.962 0 0 -450.962 43.7937 24.5782 325.807 376.481 a
 </path>
-<path matrix="1 0 0 1 -0.0360207 -0.0001931" stroke="gray" fill="gray" stroke-opacity="75%">
+<path matrix="1 0 0 1 -0.0360207 -0.0001931" stroke="gray" fill="gray" opacity="75%">
 -0.232861 -62.2935 18.2468 0 326.014 438.774 e
 </path>
 <path stroke="darkgray" fill="darkgray" opacity="75%">
@@ -1844,6 +1844,6 @@ h
 <text matrix="1 0 0 1 -15.3025 -3.06049" transformations="translations" pos="261.261 494.543" stroke="black" type="label" width="39.211" height="9.846" depth="4.12" valign="baseline" size="large" style="math">z=\frac{1}{4}y^{2}</text>
 <text matrix="1 0 0 1 -7.62 -2.18607" transformations="translations" pos="359.366 469.941" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">1\,\textrm{m}</text>
 <text matrix="1 0 0 1 -2.02858 -1.136" transformations="translations" pos="385.489 438.018" stroke="black" type="label" width="6.137" height="5.152" depth="2.32" valign="baseline" size="large" style="math">y</text>
-<text matrix="1 0 0 1 -7.24525 -3.24787" transformations="translations" pos="263.649 361.285" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">2\,\textrm{m}</text>
+<text matrix="1 0 0 1 -6.12114 -2.96684" transformations="translations" pos="263.649 361.285" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">2\,\textrm{m}</text>
 </page>
 </ipe>

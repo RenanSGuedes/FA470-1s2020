@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.12">
-<info created="D:20200709234015" modified="D:20200709235254"/>
+<info created="D:20200709234015" modified="D:20200710100146"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="178409" encoding="base64">
 eNrsnQdAFNcWhkG6mm6JyYsxaorRJCb22CgCdgQRUSmiKBbsxpYYe41K7IpKVbAg9t47VrDQ
 BAQVg13sdN6dHRimb6Xpf96XfbMzd2bu3Nld2I/juXp6aoSZWeW63zZsbW7fzrY3AECHWLRz
@@ -3569,7 +3569,7 @@ h
 <path layer="gamma" matrix="1.30002 0 0 1.30002 -110.192 -93.5922" stroke="black" fill="black">
 0.688841 0 0 0.688841 324.003 335.03 e
 </path>
-<path matrix="1.30002 0 0 1.30002 -110.192 -93.5919" stroke="black">
+<path matrix="1.30002 0 0 1.30002 -110.192 -93.5919" stroke="black" pen="0.2">
 324.003 337.444 m
 324.003 357.356 l
 </path>
@@ -3640,6 +3640,6 @@ h
 <text matrix="1.30002 0 0 1.30002 -112.992 -97.0414" transformations="translations" pos="314.551 362.895" stroke="black" type="label" width="7.472" height="6.808" depth="0" valign="baseline" style="math">A</text>
 <text matrix="1.30002 0 0 1.30002 -112.724 -96.1236" transformations="translations" pos="346.982 317.886" stroke="black" type="label" width="8.057" height="6.808" depth="0" valign="baseline" style="math">B</text>
 <text matrix="1.30002 0 0 1.30002 -121.679 -95.0951" transformations="translations" pos="345.197 410.633" stroke="black" type="label" width="33.209" height="6.42" depth="0" valign="baseline" style="math">450\,\textrm{mm}</text>
-<text matrix="1.30002 0 0 1.30002 -122.832 -93.4915" transformations="translations" pos="326.626 327.951" stroke="black" type="label" width="33.209" height="6.42" depth="0" valign="baseline" style="math">100\,\textrm{mm}</text>
+<text matrix="1.30002 0 0 1.30002 -122.613 -94.1487" transformations="translations" pos="326.626 327.951" stroke="black" type="label" width="33.209" height="6.42" depth="0" valign="baseline" style="math">100\,\textrm{mm}</text>
 </page>
 </ipe>
