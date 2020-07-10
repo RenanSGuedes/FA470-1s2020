@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  10 JUL 2020 11:32
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  10 JUL 2020 14:03
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -775,24 +775,238 @@ LaTeX Info: Redefining \nameref on input line 5.
 
 \openout4 = main.out
 
-! I can't write on file `main.pdf'.
-Please type another file name for output
-! Emergency stop.
-\PDF@SetupDoc ...tartview \@empty \else openaction
-                                                   goto page\@pdfstartpage {...
-l.5 \begin{document}
-                  
-*** (job aborted, file error in nonstop mode)
+("C:/Program Files/MiKTeX 2.9/tex/context/base/mkii/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen187
+\scratchbox=\box106
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen188
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks28
+) ("C:/Program Files/MiKTeX 2.9/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
+5.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 
+("C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
+("C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./sections/header.tex
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8.
+
+ ("C:/Program Files/MiKTeX 2.9/tex/latex/lm/t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(./sections/questions-block.tex (./sections/questions/question-1.tex
+(./sections/questions/../answers/answer-1.tex)
+<sections/questions/../../images/draw_1.pdf, id=4, 262.89015pt x 179.43738pt>
+File: sections/questions/../../images/draw_1.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_1.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_1.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 276.03476pt x 188.4093pt.
+)
+(./sections/questions/question-2.tex
+(./sections/questions/../answers/answer-2.tex)
+<sections/questions/../../images/draw_2.pdf, id=5, 247.97543pt x 201.88826pt>
+File: sections/questions/../../images/draw_2.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_2.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_2.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 260.37431pt x 211.98276pt.
+)
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 4.
+
+(C:/Users/renan/AppData/Roaming/MiKTeX/2.9/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+) [1{C:/Users/renan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+<./sections/questions/../../images/draw_1.pdf><./sections/questions/../../images
+/draw_2.pdf>]
+(./sections/questions/question-3.tex
+(./sections/questions/../answers/answer-3.tex)
+<sections/questions/../../images/draw_3.pdf, id=72, 307.48978pt x 88.597pt>
+File: sections/questions/../../images/draw_3.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_3.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_3.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 276.73824pt x 79.73654pt.
+)
+(./sections/questions/question-4.tex
+(./sections/questions/../answers/answer-4.tex)
+<sections/questions/../../images/draw_4_1.pdf, id=73, 81.28368pt x 219.63254pt>
+File: sections/questions/../../images/draw_4_1.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_4_1.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_4_1.pdf  used on i
+nput line 7.
+(luatex.def)             Requested size: 89.4123pt x 241.59654pt.
+)
+(./sections/questions/question-5.tex
+(./sections/questions/../answers/answer-5.tex)
+<sections/questions/../../images/draw_4.pdf, id=74, 201.72363pt x 216.77588pt>
+File: sections/questions/../../images/draw_4.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_4.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_4.pdf  used on inp
+ut line 8.
+(luatex.def)             Requested size: 231.98036pt x 249.2903pt.
+
+Overfull \hbox (10.13193pt too wide) in paragraph at lines 8--9
+ []
+ []
+
+[2<./sections/questions/../../images/draw_3.pdf><./sections/questions/../../imag
+es/draw_4_1.pdf><./sections/questions/../../images/draw_4.pdf>])
+(./sections/questions/question-6.tex
+(./sections/questions/../answers/answer-6.tex)
+<sections/questions/../../images/draw_5.pdf, id=141, 299.24498pt x 85.24146pt>
+File: sections/questions/../../images/draw_5.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_5.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_5.pdf  used on inp
+ut line 9.
+(luatex.def)             Requested size: 299.24423pt x 85.24123pt.
+)
+(./sections/questions/question-7.tex
+(./sections/questions/../answers/answer-7.tex)
+<sections/questions/../../images/draw_6.pdf, id=142, 279.71602pt x 181.86244pt>
+File: sections/questions/../../images/draw_6.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_6.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_6.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 307.68857pt x 200.04929pt.
+)
+(./sections/questions/question-8.tex
+(./sections/questions/../answers/answer-8.tex)
+<sections/questions/../../images/draw_7.pdf, id=143, 240.97227pt x 211.57945pt>
+File: sections/questions/../../images/draw_7.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_7.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_7.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 265.0703pt x 232.73811pt.
+)
+(./sections/questions/question-9.tex [3<./sections/questions/../../images/draw_5
+.pdf><./sections/questions/../../images/draw_6.pdf><./sections/questions/../../i
+mages/draw_7.pdf>] (./sections/questions/../answers/answer-9.tex)
+<sections/questions/../../images/draw_8.pdf, id=225, 230.05046pt x 212.27104pt>
+File: sections/questions/../../images/draw_8.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_8.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_8.pdf  used on inp
+ut line 7.
+(luatex.def)             Requested size: 276.05914pt x 254.72395pt.
+)
+(./sections/questions/question-10.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+(./sections/questions/../answers/answer-10.tex)
+<sections/questions/../../images/draw_9.pdf, id=226, 104.17218pt x 165.07071pt>
+File: sections/questions/../../images/draw_9.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_9.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_9.pdf  used on inp
+ut line 10.
+(luatex.def)             Requested size: 135.42378pt x 214.59189pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 1--13
+$[]$ $[]$ 
+ []
+
+) [4<./sections/questions/../../images/draw_8.pdf><./sections/questions/../../im
+ages/draw_9.pdf>] (./sections/questions/question-11.tex
+(./sections/questions/../answers/answer-11.tex)
+<sections/questions/../../images/draw_10.pdf, id=276, 276.74792pt x 168.21545pt>
+
+File: sections/questions/../../images/draw_10.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_10.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_10.pdf  used on in
+put line 7.
+(luatex.def)             Requested size: 276.74724pt x 168.21504pt.
+)
+(./sections/questions/question-12.tex
+(./sections/questions/../answers/answer-12.tex)
+(./sections/questions/../answers/answer-13.tex)
+<sections/questions/../../images/draw_11.pdf, id=278, 237.72514pt x 197.98466pt>
+
+File: sections/questions/../../images/draw_11.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_11.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_11.pdf  used on in
+put line 15.
+(luatex.def)             Requested size: 213.95064pt x 178.18452pt.
+)
+(./sections/questions/question-13.tex
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 6--1
+[]$[]$ $[]$ 
+ []
+
+(./sections/questions/../answers/answer-14.tex)
+<sections/questions/../../images/draw_12.pdf, id=279, 223.27415pt x 146.77736pt>
+
+File: sections/questions/../../images/draw_12.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_12.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_12.pdf  used on in
+put line 7.
+(luatex.def)             Requested size: 267.92761pt x 176.13194pt.
+)
+(./sections/questions/question-14.tex [5<./sections/questions/../../images/draw_
+10.pdf><./sections/questions/../../images/draw_11.pdf><./sections/questions/../.
+./images/draw_12.pdf>] (./sections/questions/../answers/answer-15.tex)
+<sections/questions/../../images/draw_10_1.pdf, id=355, 195.45824pt x 92.27574pt
+>
+File: sections/questions/../../images/draw_10_1.pdf Graphic file (type pdf)
+<use sections/questions/../../images/draw_10_1.pdf>
+Package luatex.def Info: sections/questions/../../images/draw_10_1.pdf  used on 
+input line 6.
+(luatex.def)             Requested size: 234.54869pt x 110.7303pt.
+))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
+
+[6<./sections/questions/../../images/draw_10_1.pdf>]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 8.
+ (./main.xwm) (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 8.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 8.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
+)
 
 Here is how much of LuaTeX's memory you used:
- 18489 strings out of 480883
- 100000,662416 words of node,token memory allocated 560 words of node memory still in use:
-   6 hlist, 1 vlist, 2 rule, 1 dir, 3 glue, 4 kern, 1 glyph, 10 attribute, 62 gl
-ue_spec, 8 attribute_list, 2 if_stack, 2 write, 1 pdf_colorstack nodes
-   avail lists: 2:9,3:1,4:1,5:2,11:1
- 35622 multiletter control sequences out of 65536+200000
- 26 fonts using 3341387 bytes
- 63i,1n,65p,270b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 19668 strings out of 480883
+ 100000,794899 words of node,token memory allocated
+ 594 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 4 kern, 1 glyph, 12 attribute, 62 gl
+ue_spec, 8 attribute_list, 1 write nodes
+   avail lists: 2:969,3:119,4:34,5:167,6:20,7:2050,8:34,9:287,10:19,11:141
+ 36266 multiletter control sequences out of 65536+200000
+ 98 fonts using 8133043 bytes
+ 74i,21n,87p,578b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKT
+eX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/renan/AppData/Roaming/MiKTeX/2.9/fo
+nts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (6 pages, 3624922 bytes).
+
+PDF statistics: 427 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

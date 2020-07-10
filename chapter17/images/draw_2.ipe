@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.12">
-<info created="D:20200709170646" modified="D:20200710095124"/>
+<info created="D:20200709170646" modified="D:20200710132210"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="81263" encoding="base64">
 eNrsnQdAFNfahhMbYEnV1D9qojHXaBJjL/QqiCJFQDqIoIKKvUVFxYJRsKKiUhVUiiXYxV6x
 ANKlClgh9hg6/9kdWGZnZ/uCYN73Ptk7O3P2tJmddd/9+M4HH0ghFZWOPX/sp6ZpqmtgAwBQ
@@ -1777,7 +1777,7 @@ h
 204.286 438.774 m
 152.744 390.7 l
 </path>
-<path layer="gamma" stroke="lightgray" fill="lightgray" join="1" opacity="75%" stroke-opacity="50%">
+<path layer="gamma" stroke="gray" fill="gray" join="1">
 325.978 501.062 m
 463.232 0 0 -463.232 37.4881 863.495 275.556 466.119 a
 346.901 0 0 -346.901 98.1512 764.226 232.34 444.33 a
@@ -1785,23 +1785,6 @@ h
 88.8795 0 0 -88.8795 201.272 349.946 232.34 433.218 a
 346.901 0 0 -346.901 98.1509 113.322 275.556 411.429 a
 450.962 0 0 -450.962 43.7937 24.5782 325.807 376.481 a
-</path>
-<path matrix="1 0 0 1 -0.0360207 -0.0001931" stroke="gray" fill="gray" opacity="75%">
--0.232861 -62.2935 18.2468 0 326.014 438.774 e
-</path>
-<path stroke="darkgray" fill="darkgray" opacity="75%">
-324.832 500.889 m
-5.48914 0 0 -5.48914 326.222 495.579 325.978 501.062 a
-325.978 438.774 l
-307.731 438.774 l
-208.605 0 0 -208.605 516.335 438.041 308.311 453.605 a
-179.515 0 0 -179.515 487.329 440.261 309.81 466.952 a
-130.826 0 0 -130.826 439.194 447.583 312.227 479.122 a
-83.8614 0 0 -83.8614 393.587 458.793 314.792 487.501 a
-43.6582 0 0 -43.6582 355.863 472.694 318.329 494.992 a
-19.226 0 0 -19.226 334.814 485.099 321.36 498.833 a
-9.55675 0 0 -9.55675 327.97 491.931 323.444 500.348 a
-6.43362 0 0 -6.43362 326.457 494.664 324.968 500.923 a
 </path>
 <path layer="delta" stroke="black">
 325.917 352.123 m
@@ -1845,5 +1828,27 @@ h
 <text matrix="1 0 0 1 -7.62 -2.18607" transformations="translations" pos="359.366 469.941" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">1\,\textrm{m}</text>
 <text matrix="1 0 0 1 -2.02858 -1.136" transformations="translations" pos="385.489 438.018" stroke="black" type="label" width="6.137" height="5.152" depth="2.32" valign="baseline" size="large" style="math">y</text>
 <text matrix="1 0 0 1 -6.12114 -2.96684" transformations="translations" pos="263.649 361.285" stroke="black" type="label" width="17.6" height="7.704" depth="0" valign="baseline" size="large" style="math">2\,\textrm{m}</text>
+<path matrix="1 0 0 1 -0.0360414 -0.0003862" stroke="darkgray" fill="darkgray" opacity="75%">
+-0.232861 -62.2935 18.2468 0 326.014 438.774 e
+</path>
+<path matrix="1 0 0 1 -0.0000414 -0.0003862" stroke="lightgray" fill="lightgray">
+232.34 444.33 m
+346.747 0 0 346.747 98.2221 764.089 275.556 466.119 a
+463.358 0 0 463.358 37.4168 863.599 325.978 501.062 a
+325.978 438.774 l
+204.286 438.774 l
+88.838 0 0 88.838 201.279 527.561 232.34 444.33 a
+h
+</path>
+<path stroke="black" dash="dashed" pen="0.2">
+307.731 438.839 m
+212.136 0 0 -212.136 519.865 437.983 307.82 444.179 a
+197.683 0 0 -197.683 505.422 438.537 309.303 463.347 a
+125.384 0 0 -125.384 433.769 448.203 313.683 484.266 a
+55.8681 0 0 -55.8681 367.078 467.826 317.266 493.126 a
+23.9945 0 0 -23.9945 338.688 482.317 319.802 497.118 a
+12.4571 0 0 -12.4571 329.758 489.629 323.073 500.141 a
+6.31784 0 0 -6.31784 326.378 494.757 325.978 501.062 a
+</path>
 </page>
 </ipe>
