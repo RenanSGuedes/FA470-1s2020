@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.12">
-<info created="D:20200717161027" modified="D:20200717163743"/>
+<info created="D:20200717161027" modified="D:20200718135748"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="407849" encoding="base64">
 eNrs3QdAE2cDxvG2KsPx2aG1S2vraK3aurdMAUUUQYoogqIoCu6tra27aq3WXRfLukeXdbW2
 2rq1xb33qHviYPNdchDukksIGQz9/76nfCG5JHeXAXl4fe+FF5Q192xPCCGEEEIIIYQQQggh
@@ -8012,6 +8012,41 @@ h
 <path matrix="1 0 0 1 24.841 -77.4674" stroke="black" pen="0.2" join="0" arrow="normal/tiny">
 326.005 467.801 m
 318.733 455.437 l
+</path>
+<path fill="lightgray" opacity="30%" stroke-opacity="opaque">
+370.862 319.08 m
+370.453 315.859
+366.753 312.824
+361.156 313.203
+357.362 315.48
+353.378 311.116
+349.963 309.314
+346.832 311.78
+342.943 314.152
+337.536 312.255
+334.31 311.401
+331.085 313.108
+331.102 319.101 c
+</path>
+<path fill="lightgray" opacity="30%" stroke-opacity="opaque">
+302.708 429.51 m
+302.788 438.997
+302.831 442.891
+304.475 445.271
+306.335 446.179
+308.282 445.444
+309.407 438.695
+310.359 436.575
+312.359 436.618
+313.604 441.117
+315.031 441.637
+316.589 441.637
+317.973 437.916
+318.449 436.878
+320.266 441.117
+321.867 443.713
+323.468 439.863
+324.583 429.51 c
 </path>
 </page>
 </ipe>

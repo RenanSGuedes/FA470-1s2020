@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.12">
-<info created="D:20200717130042" modified="D:20200717132103"/>
+<info created="D:20200717130042" modified="D:20200718132652"/>
 <bitmap id="1" width="1920" height="1080" BitsPerComponent="8" ColorSpace="DeviceRGB" Filter="FlateDecode" length="381765" encoding="base64">
 eNrsnQdAFNcWhhMLRc0ziZrEmKiJJTGaxCjY6U0QRYqAdARFBXvvvStYUVGpSlHE3sXeS8QG
 oiCC2FGxROm8uzuwzMzObKfpf96XfbOzd2fu3JndZb89nvvFF3LE11830DPo5Tti5vjJywAA
@@ -7456,6 +7456,30 @@ h
 277.482 512.53 l
 412.395 0 0 412.395 679.166 605.909 278.809 506.997 a
 h
+</path>
+<path layer="gamma" stroke="lightgray" fill="lightgray" opacity="30%" stroke-opacity="10%">
+295.005 392.582 m
+295.203 378.911
+294.957 378.295
+276.594 379.281
+272.774 378.295
+263.654 378.295
+261.929 380.02
+262.446 392.582 c
+</path>
+<path stroke="lightgray" fill="lightgray" opacity="30%" stroke-opacity="10%">
+334.668 416.89 m
+335.311 428.093
+336.041 432.401
+337.721 435.54
+339.473 435.979
+342.248 434.153
+345.826 433.204
+354.077 435.467
+359.042 435.687
+364.446 436.344
+366.417 435.248
+367.536 416.89 c
 </path>
 </page>
 </ipe>
