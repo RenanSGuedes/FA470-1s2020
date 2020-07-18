@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  10 JUL 2020 14:03
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  10 JUL 2020 14:17
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1004,7 +1004,7 @@ e1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (6 pages, 3624922 bytes).
+Output written on main.pdf (6 pages, 3624940 bytes).
 
 PDF statistics: 427 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 131072)
