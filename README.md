@@ -4,7 +4,7 @@
   <img width="40%" src="https://github.com/RenanSGuedes/FA470-1s2020/blob/master/assets/book.jpg" />
 </p>
 
-Este repositório visa aproximar os leitores do estudo de uma parte da mecânica dos materiais fundamental para estudantes de engenharia. Tendo isso em mente, após a leitura de cada capítulo é importante a fixação do conteúdo por meio de exercícios representativos. As listas apresentadas abrangem desde o capítulo 12 ao 19 do Hibbeler, partindo de uma abordagem mais específica dos problemas em duas dimensões. A ideia por traz dos mesmos é a mesma, tendo em vista que problemas no plano são a base para aqueles em três dimensões.
+Este repositório visa aproximar os leitores do estudo de uma parte da mecânica dos materiais fundamental para estudantes de engenharia. Tendo isso em mente, após a leitura de cada capítulo é importante a fixação do conteúdo por meio de exercícios representativos. As listas apresentadas abrangem desde o capítulo 12 ao 19 do Hibbeler, partindo de uma abordagem mais específica dos problemas em duas dimensões. A ideia por traz dos mesmos é análoga, tendo em vista que problemas no plano são a base para aqueles em três dimensões.
 
 <p align="right">
   <img width="45%" src="https://github.com/RenanSGuedes/FA470-1s2020/blob/master/assets/ch15.png" />
